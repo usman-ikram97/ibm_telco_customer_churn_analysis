@@ -189,11 +189,9 @@ ORDER BY churn_rate DESC;
 | 4                  | 1789            | 0                 | 0.00%      |
 | 5                  | 1149            | 0                 | 0.00%      |
 
-####
+#### Analysis
 
- Analysis
-
-There is a strong correlation between satisfaction score and churn. Customers with low satisfaction scores (1 and 2) exhibit 100% churn, while those with higher scores show no churn. Improving satisfaction scores can significantly reduce churn.
+There is a strong correlation between satisfaction scores and churn. Customers with low satisfaction scores (1 and 2) exhibit 100% churn, while those with higher scores show no churn. Improving satisfaction scores can significantly reduce churn.
 
 ## Insights and Recommendations
 
