@@ -1,6 +1,6 @@
 # **IBM Telco Customer Churn Analysis Report**
 
-![Customer Churn](https://github.com/usman-ikram97/ibm_telco_customer_churn_analysis/blob/main/Customer-churn.webp)
+![Customer Churn](Assets/Customer-churn.webp)
 
 ## Introduction
 
