@@ -8,7 +8,7 @@ I performed extra analyses and queries beyond the initial requirements to gain d
 
 Moreover, as part of this project, I have written a detailed article on Medium. Check it out here:
 
-**[Medium Article](https://medium.com/@usman97/how-sql-can-transform-customer-retention-strategies-8394b1ee4495)
+**[Medium Article](https://medium.com/@usman97/how-sql-can-transform-customer-retention-strategies-8394b1ee4495)**
 
 Let’s dive into the project!
 
