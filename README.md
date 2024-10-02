@@ -1,5 +1,7 @@
 # **IBM Telco Customer Churn Analysis Report**
 
+![Customer Churn](https://github.com/usman-ikram97/ibm_telco_customer_churn_analysis/blob/main/Customer-churn.webp)
+
 ## Introduction
 
 This is the portfolio project for the SQL module in my data analytics boot camp at atomcamp. We were provided with a dataset to run various queries and perform analysis on it. I thoroughly enjoyed working on this project as it allowed me to enhance my SQL skills, develop an analytical mindset, and gain insights into business acumen.
