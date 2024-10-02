@@ -1,6 +1,6 @@
 # **IBM Telco Customer Churn Analysis Report**
 
-![Customer Churn](Assets/BannerImage)
+![Customer Churn](Assets/BannerImage.webp)
 
 ## Introduction
 
